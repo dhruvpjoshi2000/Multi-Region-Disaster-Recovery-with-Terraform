@@ -1,4 +1,5 @@
 # Multi-Region Disaster Recovery (DR) with Terraform
+## EKS Platform: "Zero-touch deployments reduced release time by 70%"
 
 This project provisions a **Multi-Region Active-Passive** infrastructure on AWS using Terraform. It ensures business continuity by automatically failing over traffic from a Primary Region (Active) to a Secondary Region (Passive) in the event of a regional outage.
 
